@@ -1,0 +1,6 @@
+C:\Users\Szalo\source\repos\ComputerGraphics3D\obj\Debug\3DGraphics.csprojAssemblyReference.cache
+C:\Users\Szalo\source\repos\ComputerGraphics3D\obj\Debug\DGraphics.Form1.resources
+C:\Users\Szalo\source\repos\ComputerGraphics3D\obj\Debug\ComputerGraphics3D.Properties.Resources.resources
+C:\Users\Szalo\source\repos\ComputerGraphics3D\obj\Debug\3DGraphics.csproj.GenerateResource.cache
+C:\Users\Szalo\source\repos\ComputerGraphics3D\obj\Debug\ComputerGraphics3D.exe
+C:\Users\Szalo\source\repos\ComputerGraphics3D\obj\Debug\ComputerGraphics3D.pdb

@@ -32,4 +32,4 @@ wyświetlą się w odpowiedniej sekcji GUI i ich zmiana spowoduje zmianę na sce
 Przykładowa scena jest zapisana w folderze bin/Debug w pliku Scene.xml
 Zapisanie sceny nadpisuje plik Scene.xml w bin/Debug
 
-Planuję w przyszłości dodać oświetlenie Phonga
+Planuję w przyszłości dodać Z-Buffor i oświetlenie Phonga
